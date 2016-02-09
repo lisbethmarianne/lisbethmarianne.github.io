@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm Katrin from Berlin. I am a self-taught software developer. I learned through different online resources and with the help of a RailsGirls study group, [Ruby Monstas](http://rubymonstas.org/), that I joined in March 2015.
+Before my carreer change I was a biochemist with a PhD working in research and teaching.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I enjoy learning new things and am quick to pick up new languages and skills.
+
+You might ask yourself, why the name lisbethmarianne? That is a combination of my grandmothers names. I like the combination, well it is better than claushelmut.
