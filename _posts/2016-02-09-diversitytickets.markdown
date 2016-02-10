@@ -79,7 +79,7 @@ There is still a lot to do to improve the app, some issues are
 I am really proud to be a part of this.\\
 Visit the [Website][diversitytickets] or check out the [GitHub repo][diversity-gh].
 
-[diversitytickets]: http://diversityticket.org
+[diversitytickets]: https://diversitytickets.org
 [diversity-gh]: https://github.com/rubymonsters/diversity_ticketing
 [rubymonstas]: http://rubymonstas.org/
 [travis-foundation]: http://foundation.travis-ci.org/
