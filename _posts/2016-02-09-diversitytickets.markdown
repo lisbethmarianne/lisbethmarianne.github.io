@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Diversity Tickets"
+image:  /assets/diversitytickets_2016-02-09.png
 date:   2016-02-09 13:54:49 +0100
-categories:
+categories: Ruby Rails MiniTest SCSS PostgreSQL Heroku
 ---
 Together with the lovely [Ruby Monstas][rubymonstas] and [Travis Foundation][travis-foundation] I've been working on a Ruby on Rails App since July 2015. At [diversitytickets.org][diversitytickets] conferences can offer free tickets, travel grants or accommodation for their event to minority groups like women in tech.
 
 ![diversitytickets.org screenshot](/assets/diversitytickets_2016-02-09.png)
-
-<!--more-->
 
 The minimal version is done, the app is ready to use. Organizers can submit their events, these events have to be approved by the admin to be visible to the public. After an event is approved people can apply for tickets. After the deadline the admin will select the winners.\\
 The App is hosted on Heroku. It has a PostgreSQL database. It uses Minitest for testing, mailing via Mandrill. And it has a really cool design (done by [Justine][twitter-justine]).

@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Ruby Games"
+image:  /assets/ruby_games_2015-12-13.png
 date:   2015-12-13 19:54:49 +0100
-categories:
+categories: Ruby RSpec
 ---
 Ruby is first programming language I learned for real. Some of the many things I did while learning were little games you can play from the command line. I believe it is fun doing little games and playing around with the code while you are learning a language.
 

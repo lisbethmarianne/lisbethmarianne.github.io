@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Cantinio"
+image:  /assets/cantinio_2016-02-13.png
+date:   2016-02-13 10:22:49 +0100
+categories: Ruby Rails RSpec Haml SCSS Coffeescript MySQL APIs
+---
+
+<!--start-row-->
+
+Since November 2015 I'm working for Loock & Humphreys GbR at a Ruby on Rails App called [cantinio.com][cantinio]. There are a lot of great lunch options in metropolitan areas and cantinio.com was created to help, find and enjoy them. The service is free and open to all, restaurants and users.
+
+![cantinio screenshot](/assets/cantinio_2016-02-13.png)
+
+I do build new features as well as identifying and fixing bugs.
+Features I am/was working on include forwarding new updates to Facebook, Twitter and Slack and a simple job board with payment via Stripe.
+
+The App is still quite new and it needs more restaurants and users to become really successful. I believe it is a really cool idea and I look forward to using it in the future.
+
+Visit the [Website][cantinio].
+
+
+[cantinio]: https://www.cantinio.com
