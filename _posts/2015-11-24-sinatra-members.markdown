@@ -5,7 +5,7 @@ image:  /assets/sinatramembers_2015-11-24.png
 date:   2015-11-24 18:24:49 +0100
 categories: Ruby Sinatra PostgreSQL Heroku
 ---
-This little [Sinatra][sinatra] App was inspired by the [Webapps for Beginners][rubymonstas-webapps] book by the Ruby Monstas. I was the first to test this new book and I really loved it. Being able to put something out on the word wide web was and still is a really great feeling.
+This little [Sinatra][sinatra] App was inspired by the [Webapps for Beginners][rubymonstas-webapps] book by the Ruby Monstas. I was the first to test this new book and I really loved it. Being able to put something out on the world wide web was and still is a really great feeling.
 
 ![sinatra members screenshot](/assets/sinatramembers_2015-11-24.png)
 
