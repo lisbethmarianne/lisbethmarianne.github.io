@@ -3,7 +3,7 @@ layout: post
 title:  "Cantinio"
 image:  /assets/cantinio_2016-02-13.png
 date:   2016-02-13 10:22:49 +0100
-categories: Ruby Rails RSpec Haml SCSS Coffeescript MySQL APIs
+categories: Ruby Rails RSpec Haml SCSS Coffeescript MySQL GitLab CI APIs
 ---
 
 <!--start-row-->
@@ -17,7 +17,9 @@ Features I am/was working on include forwarding new updates to Facebook, Twitter
 
 The App is still quite new and it needs more restaurants and users to become really successful. I believe it is a really cool idea and I look forward to using it in the future.
 
-Visit the [Website][cantinio].
+Visit the [Website][cantinio]. The code is private and was recently moved from [bitbucket][bitbucket] to [gitlab][gitlab], which looks so much nicer (it has a cute fox as a logo) and it comes with Continuous Integration.
 
 
 [cantinio]: https://www.cantinio.com
+[bitbucket]: https://bitbucket.org
+[gitlab]: https://gitlab.com/
