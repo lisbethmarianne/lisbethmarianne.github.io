@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sketchpad and Calculator"
-image:  /assets/js_2016-01-07.png
+image:  /assets/sketchpad.png
 date:   2016-01-07 10:54:49 +0100
 categories: JavaScript jQuery
 ---

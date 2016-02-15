@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sinatra"
-image:  /assets/sinatramembers_2015-11-24.png
+image:  /assets/sinatra-members-db.png
 date:   2015-11-24 18:24:49 +0100
 categories: Ruby Sinatra PostgreSQL Heroku
 ---

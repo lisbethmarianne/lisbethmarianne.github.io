@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby Games"
-image:  /assets/ruby_games_2015-12-13.png
+image:  /assets/ruby-games.png
 date:   2015-12-13 19:54:49 +0100
 categories: Ruby RSpec
 ---

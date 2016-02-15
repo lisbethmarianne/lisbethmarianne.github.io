@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conway's Game of Life"
-image:  /assets/game_of_life.gif
+image:  /assets/game-of-life.png
 date:   2016-01-15 16:54:49 +0100
 categories: Ruby RSpec TestDrivenDevelopment Gosu
 ---

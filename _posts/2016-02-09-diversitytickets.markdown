@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Diversity Tickets"
-image:  /assets/diversitytickets_2016-02-09.png
+image:  /assets/diversity-tickets.png
 date:   2016-02-09 13:54:49 +0100
 categories: Ruby Rails MiniTest SCSS PostgreSQL Heroku
 ---
