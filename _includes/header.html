@@ -1,6 +1,6 @@
 <header class="site-header">
 
-  <div class="wrapper">
+  <div class="wrapper wrapper-header">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
@@ -14,12 +14,18 @@
       </a>
 
       <div class="trigger">
-        <a class="page-link" href="{{ site.baseurl }}/">Work and Projects</a>
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        {% for node in site.pages %}
+          {% if node.title %}
+            {% if page.url == node.url %}
+              <a href="{{node.url | prepend: site.baseurl}}" class="page-link active">{{node.title}}</a>
+            {% else %}
+              <a href="{{node.url | prepend: site.baseurl}}" class="page-link">{{node.title}}</a>
+            {% endif %}
           {% endif %}
         {% endfor %}
+
+        {% include icon-twitter.html username=site.twitter_username %}
+        {% include icon-github.html username=site.twitter_username %}
       </div>
     </nav>
 
