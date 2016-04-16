@@ -4,6 +4,7 @@ title:  "TDD and Conway's Game of Life"
 image:  /assets/gameoflife.png
 date:   2016-01-15 16:54:49 +0100
 categories: Ruby RSpec TestDrivenDevelopment Gosu
+description: Conway's Game of Life is an interesting visual experiment starting from an initial state where certain cells live and others don't and according to the rules it will evolve over time.
 ---
 Conway's Game of Life is an interesting visual experiment starting from an initial state where certain cells live and others don't and according to the rules it will evolve over time. There is a [video tutorial][gameoflife-tutorial] with little tasks for the student on youtube. I found this a very nice tutorial about Test Driven Development using ruby and rspec.
 

@@ -18,6 +18,9 @@ title: Work & Projects
           </a>
           <p class="post-categories">{{ post.categories | join: ', ' }}</p>
           <img src="{{ post.image }}">
+          <p class="post-description">{{ post.description }}
+          <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+          </p>
         </div>
       </div>
       {% endfor %}
