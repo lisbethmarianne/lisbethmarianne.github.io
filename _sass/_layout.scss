@@ -19,7 +19,6 @@
     font-size: 26px;
     font-weight: 100;
     line-height: 56px;
-    letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
     color: $background-color;
@@ -40,12 +39,14 @@
     }
 
     .page-link {
-        color: $background-color;
-        line-height: $base-line-height;
-        font-weight: 100;
-        padding: 19px 15px;
-
-
+        float: left;
+        a {
+            color: $background-color;
+            line-height: 56px;
+            font-weight: 100;
+            padding: 0 15px;
+            height: 56px;
+        }
         &.active {
             background-color: $brand-color;
         }
