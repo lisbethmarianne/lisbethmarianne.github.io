@@ -4,13 +4,13 @@ title:  "Trying Sinatra"
 image:  /assets/sinatramembers_2015-11-24.png
 date:   2015-11-24 18:24:49 +0100
 categories: Ruby Sinatra PostgreSQL Heroku
-description: This little Sinatra App was inspired by the Webapps for Beginners book by the Ruby Monstas. At the time I was doing this, the Ruby Monstas decided to get everyone to Eurucamp, a ruby conference in Potsdam. So I made this App into a list of participant of Eurucamp 2015.
+description: This little Sinatra App was inspired by the Webapps for Beginners book by the Ruby Monstas. At the time I was doing this, the Ruby Monstas decided to get everyone to Eurucamp, a ruby conference in Potsdam. So I made this App into a list of participants of Eurucamp 2015.
 ---
 This little [Sinatra][sinatra] App was inspired by the [Webapps for Beginners][rubymonstas-webapps] book by the Ruby Monstas. I was the first to test this new book and I really loved it. Being able to put something out on the world wide web was and still is a really great feeling.
 
 ![sinatra members screenshot](/assets/sinatramembers_2015-11-24.png)
 
-At the time I was doing this, the Ruby Monstas decided to get everyone to [Eurucamp][eurucamp], a ruby conference in Potsdam. So I made this App into a list of participant of Eurucamp 2015. You can add new participants, edit their names or delete them. Pretty simple.
+At the time I was doing this, the Ruby Monstas decided to get everyone to [Eurucamp][eurucamp], a ruby conference in Potsdam. So I made this App into a list of participants of Eurucamp 2015. You can add new participants, edit their names or delete them. Pretty simple.
 
 Later I thought I should have this app so that the storage of the members is not a plain text file but a database. I went for PostgeSQL because that's the one heroku is using.
 
