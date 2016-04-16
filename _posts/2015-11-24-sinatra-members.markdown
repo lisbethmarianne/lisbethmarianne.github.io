@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sinatra"
-image:  /assets/sinatra-members-db.png
+title:  "Trying Sinatra"
+image:  /assets/sinatramembers_2015-11-24.png
 date:   2015-11-24 18:24:49 +0100
 categories: Ruby Sinatra PostgreSQL Heroku
 ---
@@ -16,8 +16,6 @@ Later I thought I should have this app so that the storage of the members is not
 After that I also put in a simple http basic authentication. So not everyone who visits the page gets to add, edit or delete participants but only the admin can do so. Since this App is not used, feel free to play around as an admin by going to [https://sinatra-members-db.herokuapp.com/login][sinatra-members-login], the username is 'admin' and the password 'M3mb3r5'.
 
 Visit the [App on Heroku][sinatra-members] or check out the [GitHub repo][github-sinatra].
-
-<!--end-row-->
 
 [sinatra]: http://www.sinatrarb.com/
 [rubymonstas-webapps]: http://webapps-for-beginners.rubymonstas.org/

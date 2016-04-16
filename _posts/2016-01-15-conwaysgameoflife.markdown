@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Conway's Game of Life"
-image:  /assets/game-of-life.png
+title:  "TDD and Conway's Game of Life"
+image:  /assets/gameoflife.png
 date:   2016-01-15 16:54:49 +0100
 categories: Ruby RSpec TestDrivenDevelopment Gosu
 ---
@@ -17,8 +17,6 @@ Find the code [here][gameoflife-github]. From your terminal run it with
 {% highlight bash %}
   ruby gosu_game_of_life.rb
 {% endhighlight %}
-
-<!--end-row-->
 
 [gameoflife-tutorial]: https://www.youtube.com/watch?v=iLXO2FLPulI
 [gameoflife-github]: https://github.com/lisbethmarianne/game_of_life

@@ -13,7 +13,7 @@ You might ask yourself, why the name lisbethmarianne? That is a combination of m
 
 **Technologies used:**\\
 *Ruby, Rails, Sinatra, RSpec, Minitest\\
-HTML, CSS, Javascript, jQuery\\
+HTML, CSS, Javascript, jQuery, React\\
 Git, GitHub, GitLab\\
 Slack, Trello\\
 ... always learning something new*
@@ -22,4 +22,5 @@ Slack, Trello\\
 *RailsGirls Workshop (March 2015)\\
 Eurucamp (Juli/August 2015)\\
 RailsGirls Workshop as coach (October/November 2015)\\
-Clojure Workshop (January 2016)*
+Clojure Workshop (January 2016)\\
+RUG::B meetings (regularly)*

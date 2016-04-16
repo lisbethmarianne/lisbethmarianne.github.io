@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Sketchpad and Calculator"
-image:  /assets/sketchpad.png
+title:  "JavaScript/jQuery Projects"
+image:  /assets/sketchpad-js.png
 date:   2016-01-07 10:54:49 +0100
 categories: JavaScript jQuery
 ---
-
-<!--start-row-->
 
 I made two little projects with JavaScript and jQuery. First is a [sketchpad][sketchpad], where divs get colored diverenty when you mouseover them. Second one is a simple [calculator][calculator].
 

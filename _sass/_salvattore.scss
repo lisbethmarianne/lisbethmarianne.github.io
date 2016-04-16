@@ -1,0 +1,72 @@
+.clear:before, .clear:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+
+#grid[data-columns]::before {
+  content: '3 .column.size-1of3';
+}
+
+@media screen and (max-width: 480px){
+  #grid[data-columns]::before {
+    content: '1 .column.size-1of1';
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  #grid[data-columns]::before {
+    content: '2 .column.size-1of2';
+  }
+}
+@media screen and (min-width: 769px) {
+  #grid[data-columns]::before {
+    content: '3 .column.size-1of3';
+  }
+}
+
+.column {
+  float: left;
+}
+
+.size-1of1 { width: 100%; }
+.size-1of2 { width: 50%; }
+.size-1of3 { width: 33.333%; }
+
+
+// Custom stuff
+.column {
+  box-sizing: border-box;
+}
+
+.portfolio {
+  background-color: #ddd;
+}
+
+#grid {
+  padding: 20px;
+}
+
+.portfolio .post {
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  background: #f9f9f9;
+  position: relative;
+  padding: 20px 0;
+  margin: 0 7.5px 15px 7.5px;
+  box-shadow: 1px 1px 0 rgba(1,1,1,.1);
+  webkit-box-shadow: 1px 1px 0 rgba(1,1,1,0.1);
+  moz-box-shadow: 1px 1px 0 rgba(1,1,1,0.1);
+  .inner {
+    margin: 0 15px;
+  }
+  p, h5 {
+    color: #222;
+  }
+  .post-categories {
+    font-size: 12px;
+    color: #555;
+  }
+}
