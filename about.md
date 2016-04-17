@@ -24,3 +24,5 @@ Eurucamp (Juli/August 2015)\\
 RailsGirls Workshop as coach (October/November 2015)\\
 Clojure Workshop (January 2016)\\
 RUG::B meetings (regularly)*
+
+You can find me every Monday at the [Ruby Monstas](http://rubymonstas.org/) meeting.
