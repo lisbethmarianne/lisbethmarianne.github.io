@@ -3,7 +3,7 @@ layout: post
 title:  "Periodicum"
 image:  /assets/periodicum.png
 date:   2016-04-22 10:54:49 +0100
-categories: JavaScript React Node SCSS Gulp Bower
+categories: JavaScript React Node SCSS Gulp
 description: Together with the very talented Conny Kawohl I am working on an interactive periodic table.
 ---
 
@@ -17,10 +17,11 @@ And the single element view, with a picture representing the element and various
 
 ![periodicum screenshot](/assets/periodicum2.png)
 
-We are currently trying to implement some filters and searches, e.g. for the various groups elements belong to like noble gases.
+We already have some filters and searches, e.g. for the various groups elements belong to like noble gases. But it is not complete yet.
 
-View the code at [Github][periodicum-github].
+Visit the [Website][periodicum] and view the code at [Github][periodicum-github].
 
+[periodicum]: http://periodicum.herokuapp.com/
 [periodicum-github]: https://github.com/supernoir/periodicum
 [conny-twitter]: https://twitter.com/ckawohl
 [conny-github]: https://github.com/supernoir
