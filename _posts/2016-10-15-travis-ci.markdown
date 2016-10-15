@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Travis CI"
+image:  /assets/travis-ci.png
+date:   2016-10-15 06:12:49 +0100
+categories: Ruby Rails RSpec SCSS PostgreSQL Heroku Redis Elasticsearch
+description: Since June 2016 I'm doing an internship at Travis CI in the "Project Emerald".
+---
+
+Since June 2016 I'm doing an internship at [Travis CI][travis] in the "Project Emerald".
+
+![travis screenshot](/assets/travis-ci.png)
+
+The technical goal of project Emerald is to rewrite travis-admin as a standard Rails application that is both well-structured and well-tested. Eventually it will replace travis-admin, the current tool that is used by Travis CI Support Team and it will also be used in Travis CI Enterprise.
+
+The company’s main goal with the Emerald Project is not a technical one though. Thr rewrite of travis-admin just seemed the perfect project to take one for Emerald’s primary purpose which is to experiment, and learn more, about asynchronous communication and coaching at the junior developer level.
+
+While I work from the Travis CI Berlin office, Aly the second half of Project Emerald is located in Pittsburgh, which gives us a time difference of 6 hours. Things haven’t always been easy or perfect. We’ve had weeks where we overlap a lot and weeks where we’re completely asynchronous, where each brings its own communication challenges.
+
+In the beginning, when we had just started working on admin-v2, it was necessary to work on just one feature/PR together in order to create the basic structure and components of the app. This also helped us to not get in one another’s way by creating all the things twice and causing merge conflicts. It was difficult to keep the other completely updated in what they were doing. Comments were distributed all over Github issues, PRs and Slack and this was hard to follow. It was often not easy to ask follow up questions because the other person was offline and response would take a day.
+
+The main thing that helped with organizing the handoff was writing daily summaries. In our private Emerald repository, we create an issue per week and put our summaries as comments. We try to be as explicit as possible about what we were currently working on, our expectations for project work to be completed, and our own goals for the next day(s). It is extremely important when we write to make our ideas clear and show respect for the other person’s work. Due to the differences in culture and personality, we had to adapt our writing styles. For example, we needed to adjust our enthusiasm levels (use of emojis 😃 😕 👍 ) and try to combine directness with politeness.
+
+As admin-v2 grew to have all basic models, views, and controllers, we were able to move to a different working mode. We are now working on separate features with separate PRs. We can now focus on our own projects and know exactly where to pick up work when we come in. We don’t so much depend on the work of the other person and the explicit handoffs (which has potentially caused some slack in communication). We still make extensive use of the summaries to let the other person know what we are doing, what problems we have, and if help is needed. We review each others’ PRs and help each other out when we run into problems. We constantly have to adjust our process as the project evolves.
+
+This internship hasen’t only taught me technical skills, but also made me grow personally. I have learned more about myself, and also about other people. I have won more confidence and joy in my work as a programmer. Sadly the program will end November 30th.
+
+[travis]: https://www.travis-ci.com
