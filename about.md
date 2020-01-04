@@ -18,10 +18,10 @@ You might ask yourself, why the name lisbethmarianne? That is a combination of m
 JavaScript, React, Jest, Enzyme, Cypress\\
 HTML, CSS (SASS/SCSS)\\
 Postgres, Kafka, Redis, Sidekiq\\
-Git\\
-Travis CI, Codeship, Heroku, Digital Ocean, AWS\\
+Git, Ansible, Terraform\\
+Travis CI, Codeship, Heroku, DigitalOcean, AWS\\
 ... and always learning something new*
 
 **Links**\\
-[GitHub](https://github.com/lisbethmarianne)
+[GitHub](https://github.com/lisbethmarianne)\\
 [LinkedIn](https://www.linkedin.com/in/katrin-marschner-2a9938a6/?locale=en_US)

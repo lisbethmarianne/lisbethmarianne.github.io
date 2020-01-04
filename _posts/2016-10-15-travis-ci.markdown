@@ -4,10 +4,10 @@ title:  "Travis CI"
 image:  /assets/travis-ci.png
 date:   2016-10-15 06:12:49 +0100
 categories: Ruby Rails RSpec SCSS PostgreSQL Heroku Redis Elasticsearch
-description: Since June 2016 I'm doing an internship at Travis CI in the "Project Emerald".
+description: From June - November 2016 I did an internship at Travis CI in the "Project Emerald".
 ---
 
-Since June 2016 I'm doing an internship at [Travis CI][travis] in the "Project Emerald".
+From June - November 2016 I did an internship at [Travis CI][travis] in the "Project Emerald".
 
 ![travis screenshot](/assets/travis-ci.png)
 
@@ -23,6 +23,6 @@ The main thing that helped with organizing the handoff was writing daily summari
 
 As admin-v2 grew to have all basic models, views, and controllers, we were able to move to a different working mode. We are now working on separate features with separate PRs. We can now focus on our own projects and know exactly where to pick up work when we come in. We don’t so much depend on the work of the other person and the explicit handoffs (which has potentially caused some slack in communication). We still make extensive use of the summaries to let the other person know what we are doing, what problems we have, and if help is needed. We review each others’ PRs and help each other out when we run into problems. We constantly have to adjust our process as the project evolves.
 
-This internship hasen’t only taught me technical skills, but also made me grow personally. I have learned more about myself, and also about other people. I have won more confidence and joy in my work as a programmer. Sadly the program will end November 30th.
+This internship hasen’t only taught me technical skills, but also made me grow personally. I have learned more about myself, and also about other people. I have won more confidence and joy in my work as a programmer.
 
 [travis]: https://www.travis-ci.com
